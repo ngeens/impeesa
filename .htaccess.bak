@@ -1,0 +1,5 @@
+# Redirects
+Redirect 302 "/privacy" "https://docs.google.com/document/d/e/2PACX-1vTTlWC-vJLfTM5VKR8HyMnC-cdQTc89rJPuvhdFb_xUCeDKtmR7cGbSs5OgP71gkD4afUp3H6BMYvGR/pub"
+Redirect 302 "/ledenportaal" "https://oud-scouts-parsival.stamhoofd.be"
+Redirect 302 "/oud-op-nieuw" "https://shop.stamhoofd.be/oud-op-nieuw/"
+Redirect 302 "/comedy-night" "https://shop.stamhoofd.be/comedy-night-mechelen/"
